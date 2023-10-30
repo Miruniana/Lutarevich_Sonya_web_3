@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Oleg",
+    "age": 35,
+    "position": [
+      "Founder",
+      "CEO",
+      "coder"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "node",
+      "kotlin"
+    ],
+    "salary": {
+      "2018": 14000,
+      "2012": 12000,
+      "2010": 10000
+    }
+  },
+  {
+    "name": "Oleg1",
+    "age": 351,
+    "position": [
+      "Founder1",
+      "CEO1",
+      "coder1"
+    ],
+    "skills": [
+      "java1",
+      "python1",
+      "node1",
+      "kotlin1"
+    ],
+    "salary": {
+      "2018": 140001,
+      "2012": 120001,
+      "2010": 100001
+    }
+  },
+  {
+    "name": "Juliana",
+    "age": 19,
+    "position": [
+      "Game Developer",
+      "Unity Developer",
+      "Game Designer"
+    ],
+    "skills": [
+      "C#",
+      "C++",
+      "Unity",
+      "Kotlin"
+    ],
+    "salary": {
+      "2018": 140002,
+      "2012": 120002,
+      "2010": 100002
+    }
+  }
+]
